@@ -1,0 +1,19 @@
+{
+  "name": "lonome",
+  "version": "1.0.0",
+  "description": "Launchpad to Monome emulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkap/lonome-js.git"
+  },
+  "author": "Josh Kaplan <joshbrentkaplan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkap/lonome-js/issues"
+  },
+  "homepage": "https://github.com/jkap/lonome-js"
+}
